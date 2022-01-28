@@ -1,6 +1,6 @@
 # Team Members
 
-By Last Name: Sam Panek, Chris Reichert, Shan Jiang, K'Lan Stovall
+By Last Name: Shan Jiang, Sam Panek, Chris Reichert, K'Lan Stovall
 
 # Cooperation Plan
 
